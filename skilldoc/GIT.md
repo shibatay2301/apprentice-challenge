@@ -8,12 +8,12 @@ Git と GitHub の基本操作を身につけることで、Git でのチーム�
 
 ## Level 1
 
-- [ ] [コミットができる](/quest/git/COMMIT.md)
-- [ ] [変更状況を確認できる](/quest/git/STATUS.md)
-- [ ] [変更を元に戻すことができる](/quest/git/RESTORE.md)
+- [X] [コミットができる](/quest/git/COMMIT.md)
+- [X] [変更状況を確認できる](/quest/git/STATUS.md)
+- [X] [変更を元に戻すことができる](/quest/git/RESTORE.md)
 
 ## Level 2
 
-- [ ] [GitHub を使って開発を進めることができる](/quest/git/GITHUB.md)
-- [ ] [ブランチを利用して開発を進めることができる](/quest/git/BRANCH.md)
-- [ ] [GitHub フローに従って開発を進めることができる](/quest/git/PULLREQUEST.md)
+- [X] [GitHub を使って開発を進めることができる](/quest/git/GITHUB.md)
+- [X] [ブランチを利用して開発を進めることができる](/quest/git/BRANCH.md)
+- [X] [GitHub フローに従って開発を進めることができる](/quest/git/PULLREQUEST.md)
